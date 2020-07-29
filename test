@@ -7,6 +7,12 @@ if 5 > 2:
 def another_test():
 if 8 > 10:
   print("Eight is greater than ten?!")
+  
+def only_in_test():
+if 20 < 30:
+  print("Twenty is less than thirty.")
 
 main()
 another_test()
+only_in_test()
+only_in_test_dot_py()
